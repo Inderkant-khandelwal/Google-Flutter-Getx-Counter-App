@@ -1,5 +1,5 @@
 
-# **Google Flutter Getx Counter App  Mongodb Auth by `Inderkant`**
+# **Google Flutter Getx Counter App  by `Inderkant`**
 
 ## Below are the `Screen shot of` ** Project **
 # ** `Main Counter Page` **
